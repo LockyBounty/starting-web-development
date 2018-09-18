@@ -1,0 +1,17 @@
+body{
+	margin:0px 0px 0px 0px;
+	background-color: white;
+	padding: 0;
+}
+.container {
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(5,20%);
+    grid-template-rows: repeat(5,1fr);
+    grid-gap: 2px;
+    text-align: justify;
+    align-content: center;
+    transform: perspective(300px);
+
+    
+}
