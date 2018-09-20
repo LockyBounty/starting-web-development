@@ -12,7 +12,7 @@ _Project brought to you by Locky B.,_
 * Social media links
 * Liked movies
 
-## Creation:
+## Creation / Steps:
 * 18th september 2018: Html skeleton created
 * 20th september 2018: CSS et html first version finished 
 * 20th september 2018: 
