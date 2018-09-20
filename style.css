@@ -24,7 +24,7 @@ body{
     grid-template-columns: 20% 60% 20%;
     grid-template-rows: 1fr;
     grid-gap: 2px;
-    font-family: "Montserrat", "sans-serif","Open sans";
+    font-family: "Montserrat", sans-serif;
 }
 
 
@@ -114,7 +114,7 @@ button a {
     box-shadow: 0px 1px 2px 1px lightgray;
     text-align: center;
     /*grid-columns: 1fr 1fr 1fr;*/
-    padding: 10%;
+    padding: 7%;
     margin-bottom: 30px;
     border-radius:3px;
 
@@ -174,7 +174,7 @@ li{
     /*text-align: center;*/
 
 }
-.movie h2{
+.movie h1{
     color:dimgray;
     padding: 30px;
    
@@ -182,7 +182,7 @@ li{
 
 }
 
-.movie h4{
+.movie h2{
     color:dimgray;
     text-align:center;
 
