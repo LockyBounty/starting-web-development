@@ -7,7 +7,7 @@ _Project brought to you by Locky B.,_
 
 ## What is it? What's in it?
 
-## This is a presentation page of Tim Berners-Lee, centered in the middle and divided in three distinct parts:
+This is a presentation page of Tim Berners-Lee, centered in the middle and divided in three distinct parts:
 * Presentation
 * Social media links
 * Liked movies
